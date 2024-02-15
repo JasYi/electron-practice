@@ -1,0 +1,14 @@
+{
+  "name": "electron-practice",
+  "version": "1.0.0",
+  "description": "practicing working with electronjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.3"
+  }
+}
